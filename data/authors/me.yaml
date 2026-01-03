@@ -23,13 +23,13 @@ interests: []
 education:
   - degree: "MS Education Data Science"
     institution: "Stanford University"
-    start: "2021"
-    end: "2023"
+    start: "2021-09-01"
+    end: "2023-06-30"
     summary: ""
   - degree: "BA Psychology & Quantitative Economics"
     institution: "Smith College"
-    start: "2017"
-    end: "2021"
+    start: "2017-09-01"
+    end: "2021-05-31"
     summary: ""
 experience:
   - role: "Research Analyst II"
