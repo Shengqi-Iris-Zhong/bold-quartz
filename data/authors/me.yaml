@@ -3,105 +3,80 @@ slug: "me"
 is_owner: true
 name:
   display: "Iris Zhong 钟圣祺"
-  given: "Alex"
-  family: "Johnson"
+  given: "Shengqi"
+  family: "Zhong"
   alternate: ""
   pronunciation: ""
-  pronouns: "he/him"
-postnominals:
-  - "PhD"
-  - "MIEEE"
-status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
-affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+  pronouns: "she/her"
+role: "Research Analyst"
+bio: "Hi! I’m Iris Zhong 钟圣祺, and I am a research analyst at Education Analytics. I hold a master’s degree in Education Data Science from Stanford University, and I double majored in Psychology and Quantitative Economics at Smith College.  \\n I enjoy every part of working with data, from cleaning and exploring messy datasets, to building models, to creating a compelling data story. Much of my work focuses on large-scale education data. \\n Outside of work, you’ll usually find me watching far too many cat videos, experimenting in the kitchen, or making suboptimal latte. "
+affiliations: []
 links:
-  - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
-    label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
+  - icon: "hero/at-symbol"
+    url: "mailto:iris_zhong@outlook.com"
+    label: "Email"
   - icon: "brands/github"
-    url: "https://github.com/example"
+    url: "https://github.com/Shengqi-Iris-Zhong"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
-  - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
-interests:
-  - "Large Language Models"
-  - "Computer Vision"
-  - "Reinforcement Learning"
-  - "AI Ethics"
+    url: "https://www.linkedin.com/in/shengqi-zhong-46049a165/"
+interests: []
 education:
-  - degree: "PhD Computer Science"
+  - degree: "MS Education Data Science"
     institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+    start: "2021"
+    end: "2023"
+    summary: ""
+  - degree: "BA Psychology & Quantitative Economics"
+    institution: "Smith College"
+    start: "2017"
+    end: "2021"
+    summary: ""
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Education Data Consultant"
+    org: "OpenStax"
+    start: "2022"
+    end: "2024"
+    summary: "- Created Docker-R scripts with the developers, to allow external researchers to run analyses on student data securely \\n
+
+      - Wrote R scripts to automate Qualtrics survey data exploration process, including data querying, cleaning, and analyses such as clustering, reliability, correlation, regression, t-test, and classification accuracies\\n
+
+      - Conducted data analyses for AB testing to explore textbook features that facilitate student learning\n"
+  - role: "Research Analyst II"
+    org: "Education Analytics"
+    start: "2023"
+    end: ""
+    summary: "- Work as lead analyst to implement growth models in R and SQL, manage quality control, and develop technical documentation \\n\ 
+
+      - Lead analytical efforts for an IES grant, utilizing R and SQL to process social-emotional learning survey data; conduct psychometric analyses, author open-source technical reports, and contribute to project management operations"
+  - role: "Data Science Research Intern"
+    org: "McGraw Hill Education "
+    start: "2022"
+    end: "2023"
+    summary: "- Used SQL and R to query and conduct exploratory analyses of assessments from an online learning product, created documentation, presented results to company stakeholders, and identified key features to include in the modeling work \\n
+
+      - Fit psychometric models in R and Databricks to calibrate parameter statistics\n"
 skills:
   - name: "Technical Skills"
     items:
+      - label: "R"
+        level: 5
+      - label: "SQL"
+        level: 5
       - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
+        level: 3
 languages:
   - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 4
+    level: null
     label: "Fluent"
+  - name: "Mandarin"
+    level: null
+    label: "Native"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+  - title: "Best Paper Contributing to Linguistic Diversity"
+    awarder: "Language Acquisition"
+    date: "2025"
+    summary: ""
+    icon: ""
+weight: null
+ids:
+  orcid: "0000-0002-0955-5884"
