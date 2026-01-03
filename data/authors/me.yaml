@@ -32,38 +32,41 @@ education:
     end: "2021"
     summary: ""
 experience:
-  - role: "Education Data Consultant"
-    org: "OpenStax"
-    start: "2022"
-    end: "2024"
-    summary: "- Created Docker-R scripts with the developers, to allow external researchers to run analyses on student data securely \\n
-
-      - Wrote R scripts to automate Qualtrics survey data exploration process, including data querying, cleaning, and analyses such as clustering, reliability, correlation, regression, t-test, and classification accuracies\\n
-
-      - Conducted data analyses for AB testing to explore textbook features that facilitate student learning\n"
   - role: "Research Analyst II"
     org: "Education Analytics"
-    start: "2023"
+    start: "2023-07-10"
     end: ""
-    summary: "- Work as lead analyst to implement growth models in R and SQL, manage quality control, and develop technical documentation \\n\ 
+    summary:
+      "- Work as lead analyst to implement growth models in R and SQL, manage quality control, and develop technical documentation \n
 
       - Lead analytical efforts for an IES grant, utilizing R and SQL to process social-emotional learning survey data; conduct psychometric analyses, author open-source technical reports, and contribute to project management operations"
+  - role: "Education Data Consultant"
+    org: "OpenStax"
+    start: "2022-08-01"
+    end: "2024-07-10"
+    summary:
+      "- Created Docker-R scripts with the developers, to allow external researchers to run analyses on student data securely \n
+
+      - Wrote R scripts to automate Qualtrics survey data exploration process, including data querying, cleaning, and analyses such as clustering, reliability, correlation, regression, t-test, and classification accuracies\n
+
+      - Conducted data analyses for AB testing to explore textbook features that facilitate student learning\n"
   - role: "Data Science Research Intern"
     org: "McGraw Hill Education "
-    start: "2022"
-    end: "2023"
-    summary: "- Used SQL and R to query and conduct exploratory analyses of assessments from an online learning product, created documentation, presented results to company stakeholders, and identified key features to include in the modeling work \\n
+    start: "2022-06-01"
+    end: "2023-06-01"
+    summary:
+      "- Used SQL and R to query and conduct exploratory analyses of assessments from an online learning product, created documentation, presented results to company stakeholders, and identified key features to include in the modeling work \n
 
-      - Fit psychometric models in R and Databricks to calibrate parameter statistics\n"
+      - Fit psychometric models in R and Databricks to calibrate parameter statistics"
 skills:
   - name: "Technical Skills"
     items:
       - label: "R"
-        level: 5
+        #level: 5
       - label: "SQL"
-        level: 5
+        #level: 5
       - label: "Python"
-        level: 3
+        #level: 3
 languages:
   - name: "English"
     level: null
