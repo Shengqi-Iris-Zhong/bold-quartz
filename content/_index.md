@@ -10,7 +10,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: custom-bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -20,7 +20,7 @@ sections:
         text: Download resume
         url: uploads/resume.pdf
       headings:
-        about: ""
+        about: "About Me"
         education: ""
         interests: ""
     design:

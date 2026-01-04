@@ -38,5 +38,7 @@ hugoblox:
       enable: true
     reading_time:
       enable: true
+    citations:
+      style: apa
   search:
     enable: true
