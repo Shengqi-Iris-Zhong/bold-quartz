@@ -5,10 +5,10 @@ draft: false
 publication_types:
   - article-journal
 authors:
-  - Kyuchukov, H.
-  - de Villiers, J.
-  - Zhu, Z.
-  - Zhong, I.
+  - Hristo, Kyuchukov
+  - Jill, de Villiers
+  - Yanwan, Zhu
+  - Iris, Zhong
 publication: Language Acquisition
 publication_short: ""
 abstract: ""

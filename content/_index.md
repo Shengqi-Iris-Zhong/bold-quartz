@@ -39,18 +39,17 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "My Journey"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am broadly interested in understanding the human mind and behavior throug quantitative methods, which initially led me to study language acquisition during my undergraduate years. My [honors thesis](https://scholarworks.smith.edu/theses/2374/) examined how children learn rules in an artificial language.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Through this work, I developed an interest in statistics and working with children, which motivated me to pursue a master’s degree in Education Data Science. During my graduate training, I focused on psychometrics, and my [capstone project](https://ed.stanford.edu/eds/project/modeling-student-growth-over-time-in-algebra-i-from-a-digital-learning-environment) analyzed item-level response data from a digital learning platform to model students’ learning trajectories over time within an Algebra I curriculum.
 
-        Please reach out to collaborate 😃
+        In my current role at Education Analytics, I work with large-scale K–12 datasets, conducting psychometric analyses of social-emotional learning surveys, assessing student growth, and exploring applied analytics using Ed-Fi data.
     design:
-      columns: "1"
+      columns: 1
   # - block: collection
-  #   id: papers
   #   content:
   #     title: Featured Publications
   #     filters:
@@ -61,12 +60,13 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation
